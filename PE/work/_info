@@ -1,0 +1,225 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE
+vAdd_Sub_Nbit
+Z1 !s110 1683816904
+!i10b 1
+!s100 4SanMj[3mjZ;bVL6Y3ZnG3
+Z2 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IIkPG7mTRf<KAiM4k^a`TT2
+Z3 VDg1SIo80bB@j0V0VzS_@n1
+R0
+w1683725138
+8C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Add_Sub_Nbit.v
+FC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Add_Sub_Nbit.v
+!i122 0
+L0 7 36
+Z4 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z5 !s108 1683816904.000000
+!s107 C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Add_Sub_Nbit.v|
+!s90 -reportprogress|300|-work|work|C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Add_Sub_Nbit.v|
+!i113 1
+Z6 o-work work
+Z7 tCvgOpt 0
+n@add_@sub_@nbit
+vArray_MUL_Sign
+Z8 !s110 1683816909
+!i10b 1
+!s100 1ia[HUcDle;RlDOhGdOb81
+R2
+I0XR2h;h?M?iO58[RXM>cL2
+R3
+R0
+w1677307468
+8C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Multiplier/Array_MUL_Sign.v
+FC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Multiplier/Array_MUL_Sign.v
+!i122 4
+L0 6 18
+R4
+r1
+!s85 0
+31
+Z9 !s108 1683816909.000000
+!s107 C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Multiplier/Array_MUL_Sign.v|
+!s90 -reportprogress|300|-work|work|C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Multiplier/Array_MUL_Sign.v|
+!i113 1
+R6
+R7
+n@array_@m@u@l_@sign
+vArray_MUL_USign
+R8
+!i10b 1
+!s100 YiCOHPb6A<h3WKXLXD^G?2
+R2
+IEfBD0o`z?Bf5RYN5eT6<A2
+R3
+R0
+w1677303936
+8C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Multiplier/Array_MUL_USign.v
+FC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Multiplier/Array_MUL_USign.v
+!i122 5
+L0 6 36
+R4
+r1
+!s85 0
+31
+R9
+!s107 C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Multiplier/Array_MUL_USign.v|
+!s90 -reportprogress|300|-work|work|C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Multiplier/Array_MUL_USign.v|
+!i113 1
+R6
+R7
+n@array_@m@u@l_@u@sign
+vDFlipFlop
+Z10 !s110 1683816919
+!i10b 1
+!s100 R`<7PI^E@7^T9J2]Xc7d^3
+R2
+I3;:Y3kD>XBcD7h<b:G]9F0
+R3
+R0
+w1683809057
+8C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/DFlipFlop.v
+FC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/DFlipFlop.v
+!i122 6
+L0 3 20
+R4
+r1
+!s85 0
+31
+Z11 !s108 1683816919.000000
+!s107 C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/DFlipFlop.v|
+!s90 -reportprogress|300|-work|work|C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/DFlipFlop.v|
+!i113 1
+R6
+R7
+n@d@flip@flop
+vFull_Adder
+R1
+!i10b 1
+!s100 8o7:6liDJGC6^Q9W=UVLJ2
+R2
+I82oRBWAL9_C<KG<mG7gIg3
+R3
+R0
+w1613404688
+8C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Full_Adder.v
+FC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Full_Adder.v
+!i122 1
+L0 6 16
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Full_Adder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Full_Adder.v|
+!i113 1
+R6
+R7
+n@full_@adder
+vHalf_Adder
+R1
+!i10b 1
+!s100 hOR2QJ2D0CGfnFBE=zE743
+R2
+Id8WTS1XfzaJTdWU8ODiHU2
+R3
+R0
+w1612798090
+8C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Half_Adder.v
+FC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Half_Adder.v
+!i122 2
+L0 5 9
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Half_Adder.v|
+!s90 -reportprogress|300|-work|work|C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/Half_Adder.v|
+!i113 1
+R6
+R7
+n@half_@adder
+vOR_2in
+R1
+!i10b 1
+!s100 MkFB^4jiRJV=if4STgzl]0
+R2
+IV?CJo<3bN3D_fkGM]I4K@3
+R3
+R0
+w1612799102
+8C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/OR_2in.v
+FC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/OR_2in.v
+!i122 3
+L0 5 8
+R4
+r1
+!s85 0
+31
+R5
+!s107 C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/OR_2in.v|
+!s90 -reportprogress|300|-work|work|C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/Adder/OR_2in.v|
+!i113 1
+R6
+R7
+n@o@r_2in
+vpe
+R10
+!i10b 1
+!s100 dSf75d<L3A3KIe:XbmjVE1
+R2
+I5FXU67@eSANJ[G86`gA5o0
+R3
+R0
+w1683809253
+8C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/pe.v
+FC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/pe.v
+!i122 7
+L0 1 38
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/pe.v|
+!s90 -reportprogress|300|-work|work|C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/pe.v|
+!i113 1
+R6
+R7
+vtb_pe
+R10
+!i10b 1
+!s100 XnoM0QzPZ<PihAZAQgF=I2
+R2
+I]mX_GdJ]m6RU1nN@222=O0
+R3
+R0
+w1683809214
+8C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/tb_pe.v
+FC:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/tb_pe.v
+!i122 8
+L0 1 25
+R4
+r1
+!s85 0
+31
+R11
+!s107 C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/tb_pe.v|
+!s90 -reportprogress|300|-work|work|C:/Users/gvtkv/OneDrive - iittp.ac.in/IIT Tirupati/Acadamics/Sem 6/F VLSI signal processing/COurse_Project/Codes/PE/tb_pe.v|
+!i113 1
+R6
+R7
